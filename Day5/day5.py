@@ -9,7 +9,7 @@ import math
 import statistics as stats
 
 
-file_loc = ('C:\\Users\\mdrei\\Documents\\code\\advent_of_code_2020\\Day5\\')
+file_loc = ('C:\\Users\\mdrei\\Documents\\code\\advent_of_code_2020\\Advent-of-Code-2020\\Day5\\')
 file_name = 'file.txt'
 file = file_loc + file_name
 

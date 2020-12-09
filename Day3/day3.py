@@ -9,7 +9,7 @@ import pandas as pd
 import math
 from functools import reduce
 
-file_loc = ('C:\\Users\\mdrei\\Documents\\code\\advent_of_code_2020\\Day3\\')
+file_loc = ('C:\\Users\\mdrei\\Documents\\code\\advent_of_code_2020\\Advent-of-Code-2020\\Day3\\')
 file_name = 'day3_file.txt'
 file = file_loc + file_name
 

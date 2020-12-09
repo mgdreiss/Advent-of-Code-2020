@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 from functools import reduce
 
-file_loc = ('C:\\Users\\mdrei\\Documents\\code\\advent_of_code_2020\\day1\\')
+file_loc = ('C:\\Users\\mdrei\\Documents\\code\\advent_of_code_2020\\Advent-of-Code-2020\\day1\\')
 
 #read exense report from txt file
 with open(file_loc + 'day1_expense_report.txt') as f:

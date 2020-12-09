@@ -8,7 +8,7 @@ Created on Mon Dec  7 11:07:27 2020
 import pandas as pd
 
 
-file_loc = ('C:\\Users\\mdrei\\Documents\\code\\advent_of_code_2020\\Day2\\')
+file_loc = ('C:\\Users\\mdrei\\Documents\\code\\advent_of_code_2020\\Advent-of-Code-2020\\Day2\\')
 file_name = 'day2_file.txt'
 file = file_loc + file_name
 

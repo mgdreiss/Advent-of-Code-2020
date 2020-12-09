@@ -7,7 +7,7 @@ Created on Mon Dec  7 19:15:05 2020
 
 import re
 
-file_loc = ('C:\\Users\\mdrei\\Documents\\code\\advent_of_code_2020\\Day4\\')
+file_loc = ('C:\\Users\\mdrei\\Documents\\code\\advent_of_code_2020\\Advent-of-Code-2020\\Day4\\')
 file_name = 'file.txt'
 file = file_loc + file_name
 
